@@ -3,7 +3,7 @@
 This project demonstrates a Retrieval-Augmented Generation (RAG) system using Groq's Llama3 model for question answering based on research papers. The application allows users to input queries related to research papers and provides context-based answers using embedded documents.
 
 ### Project structure 
-
+```
 project-directory/
 │
 ├── app.py
@@ -13,7 +13,7 @@ project-directory/
 ├── LICENSE
 ├── .gitignore
 └── Screenshot_2024-08-28_224139.png
-
+```
 ## Features
 - **Document Embedding**: Embeds and stores document vectors for fast retrieval.
 - **Query Answering**: Uses Llama3 to generate answers from the provided research paper context.
