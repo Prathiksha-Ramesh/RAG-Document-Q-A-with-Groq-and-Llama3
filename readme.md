@@ -67,7 +67,7 @@ project-directory/
 
 ## Screenshot
 
-![Screenshot](Screenshot_2024-08-28_224139.png)
+![Screenshot](Screenshot%202024-08-28%20224139.png)
 
 ## License
 
